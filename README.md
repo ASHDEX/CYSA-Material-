@@ -35,7 +35,7 @@ Start reading the corresponding chapters in the study guides to reinforce the co
 
 Highlight important information and create flashcards for quick revision.
 
-# Weeks 3–4: Deep Dive and Practice
+# Weeks 3–4:  Practice
 Hands-On Labs and Practice:
 
 Utilise any lab exercises provided in the courses to gain practical experience.
@@ -57,7 +57,7 @@ Simulate exam conditions by taking full-length practice exams from Jason Dion's 
 
 Analyse your performance, identify areas of improvement, and focus on strengthening those areas.
 
-# Weeks 7-8: Refinement and Final Preparation
+# Weeks 7-8: Final Preparation
 Targeted Study:
 
 Focus on specific areas where you need improvement based on your performance in practice tests.
